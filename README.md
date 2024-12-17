@@ -32,7 +32,7 @@ The script performs the following steps:
 
 ## 📊 **Power Spectrum Plot**
 
-The resulting energy spectrum is shown below:
+The resulting energy spectrum for the test data is shown below:
 
 ![Energy Spectrum](fig_spectrum_u.png)
 
