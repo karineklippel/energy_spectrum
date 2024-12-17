@@ -6,7 +6,7 @@ from scipy.signal import detrend
 # Reading and Preprocessing the Data
 # ----------------------------------------
 # Reading data
-data = np.loadtxt('data_test_spectrum_u.csv', delimiter=',')
+data = np.loadtxt('data_test.csv', delimiter=',')
 time = data[:, 0]
 u = data[:, 1]
 
