@@ -1,4 +1,4 @@
-# Power Spectrum Analysis using Fourier Transform
+# Energy Spectrum Analysis using Fourier Transform
 
 This repository contains a Python script for **power spectrum analysis** of a time series of velocity in a turbulent flow using the **Fast Fourier Transform (FFT)**. The script reads data from a CSV file, processes it to calculate the power spectrum, and verifies variance consistency.
 
