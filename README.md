@@ -9,7 +9,7 @@ This repository contains a Python script for **power spectrum analysis** of a ti
 The script performs the following steps:
 
 ### 1. **Data Reading and Preprocessing**
-- The data is read from a CSV file (`data_test_spectrum_u.csv`), containing two columns: **time** and **series values (u)**.
+- The data is read from a CSV file (`data_test.csv`), containing two columns: **time** and **series values (u)**.
 - A linear trend is removed using `scipy.signal.detrend`.
 - The mean is subtracted to center the data around zero.
 - The time series is padded with zeros to make it periodic, which is required for the FFT.
