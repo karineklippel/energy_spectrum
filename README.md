@@ -34,7 +34,9 @@ The script performs the following steps:
 
 The resulting energy spectrum is shown below:
 
-![Energy Spectrum](fig_spectrum_u.png)---
+![Energy Spectrum](fig_spectrum_u.png)
+
+---
 
 ## 🛠️ **Dependencies**
 
